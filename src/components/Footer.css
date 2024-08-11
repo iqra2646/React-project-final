@@ -1,0 +1,21 @@
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding-top: 60px; /* You can adjust this value to make it larger */
+    padding-bottom: 20px;
+}
+
+.larger-container {
+    padding-bottom: 100px; /* Adjust the padding inside the container */
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+ 
+}
+
+footer a:hover {
+    color: #adb5bd;
+}
